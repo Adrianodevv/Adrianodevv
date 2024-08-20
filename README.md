@@ -12,7 +12,6 @@ Tecnologias e Ferramentas
 
 📧 Email: adrianodeevv@gmail.com
 💼 LinkedIn: Adriano Miranda Batista
-🌐 Portfólio: seuportfólio.com
 Estatísticas do GitHub
 
 Linguagens Mais Usadas
