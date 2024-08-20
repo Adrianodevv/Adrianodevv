@@ -5,14 +5,21 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no terceiro semestre e e
 Tenho paixão por desenvolver soluções inovadoras e aprender novas tecnologias.
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+
 💻 Apaixonado por programação e desenvolvimento de software.
+
 📚 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+
 🌟 Interesse especial em desenvolvimento web e mobile.
+
 💻Tecnologias e Ferramentas.
 
+📞 (11) 94209-2645
 
 📧 Email: adrianodeevv@gmail.com.
+
 💼 LinkedIn: Adriano Miranda Batista.
+
 Estatísticas do GitHub
 
 Linguagens Mais Usadas
